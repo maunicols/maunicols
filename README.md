@@ -1,5 +1,5 @@
 ### Hello, I'm Mauricio  👋
-##Software enginner 👨‍💻\
+## Software enginner 👨‍💻\
 -🔭🌱 Currently expanding my knowledge of Node and Backend technologies
 
-###📫 Reach me through my email: cruzmauricionicolas@gmail.com
+### 📫 Reach me through my email: cruzmauricionicolas@gmail.com
